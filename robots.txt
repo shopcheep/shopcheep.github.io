@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://cheepshop.p-e.kr/sitemap.xml
+Sitemap: https://cheepshop.p-e.kr/sitemap.xml
