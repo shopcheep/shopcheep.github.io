@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 #DaumWebMasterTool:f823434abea2fd3dc1150891c45727690fd3f0f28292fcc2831a129e0510b4fe:vwo46cEGL07qpgZ8BmPO4w==
 
-Sitemap: https://cheepshop.p-e.kr/sitemap.xml
+Sitemap: https://shopcheep.github.io/sitemap.xml
